@@ -24,3 +24,4 @@ foreach (string kurs in kurslar)
 {
     Console.WriteLine(kurs);
 }
+Console.WriteLine();
