@@ -32,3 +32,4 @@ else
 }
 Console.WriteLine("Emre abi");
 Console.WriteLine("Aha ben");
+Console.WriteLine("rıdvan gitti");
