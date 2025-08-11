@@ -30,3 +30,5 @@ else
 {
     Console.WriteLine("Giriş yap butonu");
 }
+Console.WriteLine("Emre abi");
+Console.WriteLine("Aha ben");
