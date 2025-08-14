@@ -34,5 +34,7 @@ namespace GenericsIntro
             //son sıraya istenen elemanı ekle
             items[items.Length-1] = item;
         } 
+
+
     }
 }

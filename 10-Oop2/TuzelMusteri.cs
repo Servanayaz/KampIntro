@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _10_Oop2
+{
+    //coorporate
+    public class TuzelMusteri : Musteri
+    {
+        public string SirketAdi { get; set; }
+        public string VergiNo { get; set; }
+    }
+}
